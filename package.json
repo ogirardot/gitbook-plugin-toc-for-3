@@ -1,0 +1,8 @@
+{
+    "name": "gitbook-plugin-toc-for-3",
+    "version": "0.1.0",
+    "description": "TOC Plugin working with Gitbook 3.x",
+    "engines": {
+        "gitbook": ">3.0.0"
+    }
+}
